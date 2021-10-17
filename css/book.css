@@ -1,0 +1,22 @@
+.navbar-brand{
+    color: #aaaaaa;
+    font-weight: bold;
+    font-size: 30;
+}
+.line{
+    width: 85%;
+    height: 1;
+    background-color: #aaaaaa;
+    margin: auto;
+}
+.bground{
+    background-color: #eeeeee;
+}
+h4{
+    color: black;
+}
+label{
+    font-weight: bold;
+    color: #333333;
+    padding-bottom: 20;
+}
